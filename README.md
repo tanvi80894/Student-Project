@@ -14,7 +14,7 @@
 - UML Diagrams (Use Case, Class, and Sequence Diagrams)
 - Database Connectivity using JDBC
 
-3. Pradnay – Frontend Development
+3. Shrutika Dhadse – Frontend Development
 - Course Management Module
 - Student Registration and Student Details Interface
 - Login and Dashboard UI
